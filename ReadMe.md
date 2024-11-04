@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate about creating web applications that are both user-friendly and visually appealing. Right now, I’m improving my skills with the MERN stack and focusing on data structures and algorithms in C++. As a student pursuing a Bachelor’s degree in Computer Science and Engineering at Chitkara University, I am committed to applying my learning to build effective and innovative tech solutions.
+I am passionate about creating web applications that are both user-friendly and visually appealing. Right now, I’m improving my skills with the MERN stack and focusing on data structures and algorithms in Java. As a student pursuing a Bachelor’s degree in Computer Science and Engineering at Chitkara University, I am committed to applying my learning to build effective and innovative tech solutions.
 
 
 ## 🌐 Socials:

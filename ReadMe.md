@@ -11,19 +11,19 @@ I am passionate about creating web applications that are both user-friendly and 
 
 <div>
 <h2 class="section-heading">📈 Github Stats</h2>
- <table align="center" width="100%" height="100%" >
+ <table  width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jappanjot26&theme=github_dark" alt="Jappanjot Singh's GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Jappanjot26&theme=merko" alt="Jappanjot Singh's Contribution Streak"/></td>
     </tr>
  </table>
 
- <table align="center" width="100%" height="100%" >
+ <table  width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jappanjot26&theme=github_dark" alt="Jappanjot Singh's GitHub Stats"/></td>
+<!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jappanjot26&theme=github_dark" alt="Jappanjot Singh's GitHub Stats"/></td> -->
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jappanjot26&theme=github_dark&utcOffset=10" alt="Jappanjot Singh's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jappanjot26&theme=github_dark" alt="Jappanjot Singh's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jappanjot26&theme=github_dark" alt="Jappanjot Singh's GitHub Stats"/></td>
+<!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jappanjot26&theme=github_dark" alt="Jappanjot Singh's GitHub Stats"/></td> -->
+        <td><img style="border: none; width:100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jappanjot26&theme=github_dark" alt="Jappanjot Singh's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
